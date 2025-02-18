@@ -24,7 +24,8 @@ Xw_train, Xw_test, yw_train, yw_test = train_test_split(Xw, yw, test_size=0.2, r
 # Define the scaler
 scaler = StandardScaler()
 
-# Fit the scaler
+# Fit the scaler hihi 
+# Trying to change 
 scaler.fit(Xw_train)
 
 # 1. Set up our model
